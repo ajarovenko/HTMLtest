@@ -4,8 +4,8 @@ const ctx = canv.getContext("2d");
 const radius = 50;
 const rSquared = radius*radius;
 
-const cellSize = 10;
-const squareSize = 0.9;
+const cellSize = 5;
+const squareSize = 1;
 
 ctx.fillStyle = "black";
 
