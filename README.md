@@ -1,1 +1,1 @@
-musu faila nasaukums ir layout.html
+musu faila nasaukums ir index.html
